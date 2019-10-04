@@ -41,7 +41,7 @@ public class InstructionUXCanvas : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+//update function is blank
     }
 }
 
