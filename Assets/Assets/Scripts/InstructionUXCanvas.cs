@@ -42,6 +42,7 @@ public class InstructionUXCanvas : MonoBehaviour
     void Update()
     {
 //update function is blank
+//please specify the role of functions for code clarity
     }
 }
 
